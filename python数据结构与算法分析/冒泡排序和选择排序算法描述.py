@@ -37,11 +37,13 @@ def insertionSort(alist):
             alist[position] = alist[position - 1]
             position = position - 1
 
+
         alist[position] = currentvalue
 
 
 # 谢尔排序
-def 
+def xierpaixu():
+    pass
 
 
 alist = [54,15,12,95,84,12,1,5,4,69]
